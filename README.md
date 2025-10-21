@@ -4,7 +4,7 @@
 [ Abass Diaby ]
 
 ## Description
-This is a bitboard game that uses binary to control movements, placement, and positions. AI was incorporated.
+This is a Checkers Game that uses binary to control movements, placement, and positions to control gameplay. AI was incorporated.
 Game mod can be either single player or multiplayer:
 Single Player: Player vs AI
 Multiplayer: Player vs Player
