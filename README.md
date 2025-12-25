@@ -1,4 +1,4 @@
-# CS 3503 Assignment 1 - Number Base Conversion
+# Project 1: BitBoard Checkers Game
 
 ## Author
 [ Abass Diaby ]
